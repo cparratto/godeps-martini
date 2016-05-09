@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/cparratto/hw_go",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v64",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-184-g0c6ad59",
+			"Rev": "0c6ad5903d2bf9337762caa9c357247279c230c3"
+		}
+	]
+}
