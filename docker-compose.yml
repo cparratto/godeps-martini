@@ -1,0 +1,11 @@
+---
+version: '2'
+services:
+  common:
+    build: "."
+  app:
+    extends:
+      service: common
+    build: "."
+    ports:
+    - 3000:3000
